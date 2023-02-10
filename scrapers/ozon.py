@@ -34,3 +34,5 @@ def scrape(q: str, c: int):
     except Exception as e:
         print(e)
         return [], [], []
+
+print()
